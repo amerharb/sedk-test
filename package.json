@@ -1,0 +1,15 @@
+{
+  "name": "sedk-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "index": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sedk-postgres": "^0.14.0-next.4"
+  }
+}
